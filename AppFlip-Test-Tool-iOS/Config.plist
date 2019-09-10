@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appFlipLinkAddress</key>
+	<string>https://insert-your-universal-link-here</string>
+	<key>clientID</key>
+	<string>1234</string>
+	<key>scope</key>
+	<string>devices</string>
+	<key>state</key>
+	<string>thisisastate</string>
+	<key>redirectUri</key>
+	<string>https://insert-return-universal-link-here</string>
+</dict>
+</plist>
