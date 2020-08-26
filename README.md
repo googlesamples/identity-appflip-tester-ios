@@ -50,7 +50,7 @@ Documentation links:
 1. Open Config.plist and edit the following values:
    - `appFlipLinkAddress`: Universal link URL configured with App Flip for your app
    - `clientID`: Client identifier configured with App Flip for your app
-   - `scope`: Optional additional auth scopes configured with App Flip for your app
+   - `scope`: Optional additional auth scopes configured with App Flip for your app. Multiple scopes can be added using `+` spacing, e.g. `scope1+scope2`.
    - `redirectUri`: Universal link URL to return to the test tool app (configured
      using the above steps)
 
